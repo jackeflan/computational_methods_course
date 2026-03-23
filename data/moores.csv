@@ -508,6 +508,6 @@ GH100 Hopper,80000000000,2022,Nvidia,4 nm,814 mm²,Transistor_count_3.csv
 Navi 24 RDNA2,5400000000,2022,AMD,6 nm,107 mm²,Transistor_count_3.csv
 Apple A16 (ARM64 SoC),16000000000,2022,Apple,4 nm,?,Transistor_count_2.csv
 Navi 31 RDNA3,58000000000,2022,AMD,5 nm (GCD) 6 nm (MCD),531 mm² (MCM) 306 mm² (GCD) 6×37.5 mm² (MCD),Transistor_count_3.csv
-Sapphire Rapids quad-chip module (up to 60 cores and 112.5 MB of cache),4400000000048000000000,2023,Intel,Intel 7 (10 nm ESF),"1,600 mm2",Transistor_count_2.csv
+Sapphire Rapids quad-chip module (up to 60 cores and 112.5 MB of cache),48000000000,2023,Intel,Intel 7 (10 nm ESF),"1,600 mm2",Transistor_count_2.csv
 "Apple M2 Pro (12-core 64-bit ARM64 SoC, SIMD, caches)",40000000000,2023,Apple,5 nm,?,Transistor_count_2.csv
 "Apple M2 Max (12-core 64-bit ARM64 SoC, SIMD, caches)",67000000000,2023,Apple,5 nm,?,Transistor_count_2.csv
